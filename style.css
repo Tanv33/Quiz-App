@@ -68,3 +68,23 @@ body {
     color: #2b2b2b;
     font-size: 18px;
 }
+
+h2 {
+    text-align: center;
+    display: inline-block;
+    margin: 2px;
+    font-size: xx-large;
+}
+
+#star {
+    border: none;
+    color: white;
+    background-color: lightcoral;
+    padding: 8px 15px 8px 15px;
+    margin-left: 15px;
+}
+
+#star:hover {
+    background-color: teal;
+    color: whitesmoke;
+}
